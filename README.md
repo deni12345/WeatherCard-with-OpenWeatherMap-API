@@ -1,2 +1,2 @@
-# WeatherCard-with-OpenWeatherMap-API
+# WeatherCard-with-OpenWeatherMapAPI
 a demo with OpenWeatherMap API
